@@ -86,7 +86,7 @@ The project follows a standard industry lifecycle:
 ### 2. Installation
 Clone the repo and install dependencies:
 ```bash
-git clone [https://github.com/ahsanrizvi99/healthcare-data-classification.git](https://github.com/ahsanrizvi99/healthcare-data-classification.git)
+git clone [https://github.com/ahsanrizviii/healthcare-data-classification.git](https://github.com/ahsanrizviii/healthcare-data-classification.git)
 pip install -r requirements.txt
 
 ```
